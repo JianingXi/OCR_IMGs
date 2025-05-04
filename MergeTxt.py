@@ -22,6 +22,6 @@ def concatenate_txt_files(directory, output_file):
 
 
 # 示例使用
-directory_path = r'C:\Users\xijia\Desktop\DoingPlatform\D20250113_省教改质量工程项目开题\相互评审_pic\林卫虹_临床分子生物学检验技术模块化教学与产业链融合路径研究申请书'  # 替换为你的 txt 文件文件夹路径
-output_file_path = r'C:\Users\xijia\Desktop\DoingPlatform\D20250113_省教改质量工程项目开题\相互评审_pic\林卫虹_临床分子生物学检验技术模块化教学与产业链融合路径研究申请书.txt'  # 替换为输出文件的路径
+directory_path = r'D:\Alpha\StoreLatestYears\Store2024\B教学_教学与人才培养_A04_教改社科论文\D20240705_EI教学会议_ISAIE_2024\D20241201_封面封底目录\aaa'  # 替换为你的 txt 文件文件夹路径
+output_file_path = r'D:\Alpha\StoreLatestYears\Store2024\B教学_教学与人才培养_A04_教改社科论文\D20240705_EI教学会议_ISAIE_2024\D20241201_封面封底目录\aaa.txt'  # 替换为输出文件的路径
 concatenate_txt_files(directory_path, output_file_path)

@@ -73,5 +73,5 @@ def process_all_images_in_directory(directory):
 
 
 # 示例使用
-directory_path = r'C:\Users\xijia\Desktop\DoingPlatform\D20250113_省教改质量工程项目开题\相互评审_pic\林卫虹_临床分子生物学检验技术模块化教学与产业链融合路径研究申请书'  # 替换为你的图片文件夹路径
+directory_path = r'D:\Alpha\StoreLatestYears\Store2024\B教学_教学与人才培养_A04_教改社科论文\D20240705_EI教学会议_ISAIE_2024\D20241201_封面封底目录\aaa'  # 替换为你的图片文件夹路径
 process_all_images_in_directory(directory_path)
