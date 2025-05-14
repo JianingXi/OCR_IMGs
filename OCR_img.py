@@ -73,5 +73,5 @@ def process_all_images_in_directory(directory):
 
 
 # 示例使用
-directory_path = r'D:\Alpha\StoreLatestYears\Store2024\B教学_教学与人才培养_A04_教改社科论文\D20240705_EI教学会议_ISAIE_2024\D20241201_封面封底目录\aaa'  # 替换为你的图片文件夹路径
+directory_path = r'C:\MyPython\OCR_IMGs\img'  # 替换为你的图片文件夹路径
 process_all_images_in_directory(directory_path)
