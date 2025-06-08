@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c3bc9f1-7065-4ce4-8379-61253a269c07" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MergeTxt.py" beforeDir="false" afterPath="$PROJECT_DIR$/MergeTxt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCR_img.py" beforeDir="false" afterPath="$PROJECT_DIR$/OCR_img.py" afterDir="false" />
-    </list>
+    <list default="true" id="5c3bc9f1-7065-4ce4-8379-61253a269c07" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +69,7 @@
       <workItem from="1744862039639" duration="26000" />
       <workItem from="1744881353369" duration="998000" />
       <workItem from="1746613435763" duration="2358000" />
+      <workItem from="1749094319981" duration="16000" />
     </task>
     <servers />
   </component>
